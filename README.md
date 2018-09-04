@@ -10,9 +10,9 @@ Data Source: https://www.kaggle.com/sheenabatra/facebook-data
 Key Findings :
 
 * Gender Interaction :
-** Women interact more with fb then men
-** Women receive & give more likes than men on average
-** Women initiate less friendships than men compared proportionally to friend count
+ * Women interact more with fb then men
+ * Women receive & give more likes than men on average
+ * Women initiate less friendships than men compared proportionally to friend count
 	
 * Likes Split Up :
 ** Shows inclination towards mobile apps
