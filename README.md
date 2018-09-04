@@ -10,15 +10,16 @@ Data Source: https://www.kaggle.com/sheenabatra/facebook-data
 Key Findings :
 
 * Gender Interaction :
-	 Women interact more with fb then men
-	 Women receive & give more likes than men on average
-	 Women initiate less friendships than men compared proportionally to friend count
+** Women interact more with fb then men
+** Women receive & give more likes than men on average
+** Women initiate less friendships than men compared proportionally to friend count
 	
 * Likes Split Up :
-	 Shows inclination towards mobile apps
-	More prominence of likes from mobile compared to site though few users still interact with sites
-	 There can be a gradual shift from mobile to site in years to come seeing the trend
+** Shows inclination towards mobile apps
+** More prominence of likes from mobile compared to site though few users still interact with sites
+** There can be a gradual shift from mobile to site in years to come seeing the trend
+
 * User Counts :
-	 Bump between 1940 to 1980
-	 No. of users in dataset depict a bump from 1940 to 1980 (50-60 year olds)
-	 Age Distribution shows peak between 15-28 years, then small peak between 45-55 years. It seems like ages of parents and kids of a          generation.
+** Bump between 1940 to 1980
+** No. of users in dataset depict a bump from 1940 to 1980 (50-60 year olds)
+** Age Distribution shows peak between 15-28 years, then small peak between 45-55 years. It seems like ages of parents and kids of a          generation.
